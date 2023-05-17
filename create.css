@@ -1,0 +1,68 @@
+/*
+ملحوظة : 
+في بعض جمل ال css ما زبطت معي ب الملف الخاص فيها ف حطيت الاكواد جوا التاغ الخاصة ب العنصر
+*/
+* {
+    box-sizing: border-box;
+    background-color: black;
+}
+body{
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+    font-family: 'Work Sans', sans-serif;
+}
+.create-acc {
+    margin-top: 150px;
+    margin-bottom: 100px;
+}
+.CREATE {
+    color: white;
+    text-align: center;
+}
+.name-input {
+    margin-left: 38%;
+    width: 70%;
+}
+.have-acc {
+    margin-left: 40%;
+}
+.THE-NEW {
+    color: white;
+    text-align: center;
+}
+.name-input p {
+    color: white;
+}
+input {
+    border: 0px solid black;
+    width: 35%;
+    background-color: rgb(63, 62, 62);
+    padding: 20px;
+}
+.butt-cont1 {
+    border: 0px solid black;
+    color: black;
+    background-color: white;
+    padding: 20px 30px;
+    width: 35%;
+    text-align: center;
+    text-decoration:none;
+    display: inline-block;
+    font-size: 16px;
+}
+.butt-cont2 {
+    border: 3px solid white;
+    color: white;
+    background-color: black;
+    padding: 20px 30px;
+    width: 40%;
+    margin-left: -15px;
+    text-align: center;
+    text-decoration:none;
+    display: inline-block;
+    letter-spacing: 2px;
+}
+.have-acc p {
+    margin-left: -15px;
+}
